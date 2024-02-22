@@ -305,7 +305,6 @@ body {
 .footer_social-links {
   display: flex;
   gap: 48px;
-  height: 48px;
   list-style: none;
 }
 
