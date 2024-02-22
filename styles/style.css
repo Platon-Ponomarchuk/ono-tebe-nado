@@ -14,7 +14,8 @@ body {
 }
 
 .underline {
-  border-bottom: 1px solid;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
 }
 
 .header {
@@ -292,7 +293,7 @@ body {
   margin: 0 auto;
 }
 
-.footer > .address{
+.footer > .address {
   margin: 0;
 }
 
